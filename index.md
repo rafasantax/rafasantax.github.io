@@ -1,6 +1,6 @@
 # ¡Hola!
 
-Mi nombre es Rafael Santa Cruz Ruvalcaba. Desarrollador de Software e Ingeniero en Sistemas en proceso!  
+Mi nombre es **Rafael Santa Cruz Ruvalcaba**. Desarrollador de Software e Ingeniero en Sistemas en proceso!  
 [¡Descarga mi CV!](https://drive.google.com/file/d/1V4vHJxlajvsfmqOfhJZqi4hrpfiRfvON/view?usp=sharing)
 
 ## Datos Personales
@@ -48,4 +48,4 @@ ________________________________________________________________________________
 [Twitter](https://twitter.com/Rafasantaxr)  
 [Instagram](https://www.instagram.com/rafa_santax/)  
   
-:space_invader::space_invader::space_invader:
+:space_invader:
