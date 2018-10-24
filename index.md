@@ -9,7 +9,7 @@ Mi nombre es **Rafael Santa Cruz Ruvalcaba**. Desarrollador de Software e Ingeni
 - **Código Postal:** 83190
 - **Lugar y Fecha de Nacimiento:** Hermosillo, Sonora. 5 de junio de 1996 (22 años)
 - **Teléfono:** 01 662 937 5274
-- **E-mail:** [rafasantax@outlook.com](rafasantax@outlook.com)  
+- **E-mail:** [rafasantax@outlook.com](mailto:rafasantax@outlook.com)  
 
 
 
